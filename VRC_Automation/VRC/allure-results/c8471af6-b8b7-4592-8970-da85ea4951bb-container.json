@@ -1,0 +1,1 @@
+{"uuid":"c8471af6-b8b7-4592-8970-da85ea4951bb","name":"com.vrc.test.Home.setUp","children":["b86ce81c-1dd1-442c-80a4-6c357ce3cf82"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1738497526729,"stop":1738497528660}],"afters":[],"start":1738497526729,"stop":1738497528660}

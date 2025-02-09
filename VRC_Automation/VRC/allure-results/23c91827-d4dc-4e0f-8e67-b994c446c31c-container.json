@@ -1,0 +1,1 @@
+{"uuid":"23c91827-d4dc-4e0f-8e67-b994c446c31c","name":"com.vrc.test.Courses.setUp","children":["eb307b79-eed6-444c-8e5c-26afd3957fc4"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1738585118438,"stop":1738585126033}],"afters":[],"start":1738585118437,"stop":1738585126033}
