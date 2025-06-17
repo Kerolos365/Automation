@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="false">
+
+    <listeners>
+        <listener class-name="TestComponent.Listeners"/>
+    </listeners>
+
+    <test name="LoginPage Test">
+        <classes>
+            <class name="TestCases.LoginPage"/>
+        </classes>
+    </test>
+
+    <test name="HomePage Test">
+        <classes>
+            <class name="TestCases.HomePage"/>
+        </classes>
+    </test>
+
+    <test name="ManageOrganizationsPage Test">
+        <classes>
+            <class name="TestCases.ManageOrganizationsPage"/>
+        </classes>
+    </test>
+
+    <test name="ManageUsersPage Test">
+        <classes>
+            <class name="TestCases.ManageUsersPage"/>
+        </classes>
+    </test>
+
+    <test name="RolesPage Test">
+        <classes>
+            <class name="TestCases.RolesPage"/>
+        </classes>
+    </test>
+
+    <test name="ManageLicensesPage Test">
+        <classes>
+            <class name="TestCases.ManageLicensesPage"/>
+        </classes>
+    </test>
+
+</suite>

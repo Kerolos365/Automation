@@ -1,1 +1,0 @@
-{"uuid":"76effb56-336e-4e9e-975e-87eb4b3c98e5","name":"com.vrc.test.Roles.setUp","children":["978e4e1c-9a9c-4ee9-9ea5-b0f1e516ad47"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1738584414707,"stop":1738584419282}],"afters":[],"start":1738584414707,"stop":1738584419282}
